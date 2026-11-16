@@ -1,0 +1,11 @@
+# Kaggle competition data (download from Kaggle; not redistributable, train.csv > 100 MB)
+train.csv
+test.csv
+stores.csv
+oil.csv
+holidays_events.csv
+transactions.csv
+sample_submission.csv
+
+.ipynb_checkpoints/
+__pycache__/
